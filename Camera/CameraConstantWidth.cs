@@ -1,5 +1,8 @@
 using UnityEngine;
 
+/*
+@ Скрипт позволяет адаптировать сцену под ширину камеры
+*/
 public class CameraConstantWidth : MonoBehaviour
 {
     public Vector2 DefaultResolution = new Vector2(720, 1280);
